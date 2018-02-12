@@ -35,7 +35,7 @@ def getPelicanaAddress(result):
 
         store_table = soupData.find('table', attrs={'class': 'table mt20'})
         tbody = store_table.find('tbody')
-        bEnd = True
+        bEnd = True성
         for store_tr in tbody.findAll('tr'):
             bEnd = False
             tr_tag = list(store_tr.strings)
