@@ -1,0 +1,12 @@
+setwd("c:\\easy_r")
+install.packages("googleVis")
+library(googleVis)
+data2<-read.csv("1-4호선승하차승객수.csv",header=T)
+data2
+aggregate(승차~노선번호,data2,sum)
+aggregate(하차~노선번호,data2,sum)
+data3=data2[,-(1:2)]
+colSums(data3)
+aggregate(승차+하차~노선번호,data2,sum)
+aggregate(승차~노선번호,data2,sum)
+aggregate(하차~노선번호,data2,sum)
