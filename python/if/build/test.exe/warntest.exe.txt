@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, c:\자료\github\python\if\calculator.py
+missing module named posix - imported by os, c:\자료\github\python\if\calculator.py
+missing module named _posixsubprocess - imported by subprocess, c:\자료\github\python\if\calculator.py
+missing module named readline - imported by cmd, code, pdb, c:\자료\github\python\if\calculator.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, c:\자료\github\python\if\calculator.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, c:\자료\github\python\if\calculator.py
+missing module named _winreg - imported by platform, c:\자료\github\python\if\calculator.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, c:\자료\github\python\if\calculator.py
+missing module named 'java.lang' - imported by platform, c:\자료\github\python\if\calculator.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, c:\자료\github\python\if\calculator.py
+missing module named termios - imported by tty, c:\자료\github\python\if\calculator.py, getpass
+missing module named grp - imported by shutil, tarfile, c:\자료\github\python\if\calculator.py
+missing module named _dummy_threading - imported by dummy_threading, c:\자료\github\python\if\calculator.py
+missing module named 'org.python' - imported by copy, c:\자료\github\python\if\calculator.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, c:\자료\github\python\if\calculator.py, netrc, getpass
+missing module named org - imported by pickle, c:\자료\github\python\if\calculator.py

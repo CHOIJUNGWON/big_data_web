@@ -24,7 +24,7 @@
       <file leaf-file-name="iiii.py" pinned="false" current-in-tab="false">
         <entry file="file://C:/python3.6/iiii.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
+            <state relative-caret-position="38">
               <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0209실습.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="0209실습.py" pinned="false" current-in-tab="false">
         <entry file="file://C:/python3.6/0209실습.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -55,11 +55,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="calculator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/if/calculator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="0209cra.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0209cra.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="247">
+              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -82,7 +92,7 @@
       <file leaf-file-name="0209-4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0209-4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-532">
+            <state relative-caret-position="323">
               <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -94,7 +104,7 @@
       <file leaf-file-name="movie_reple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/movie_reple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-627">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -106,8 +116,8 @@
       <file leaf-file-name="pelicana.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pelicana.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-456">
-              <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            <state relative-caret-position="57">
+              <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -291,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0209-4">
+  <component name="RunManager" selected="Python.calculator">
     <configuration name="0209-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,19 +356,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/if" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="C:/python3.6/2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if/calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -421,19 +431,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.money exchange" />
       <item index="1" class="java.lang.String" itemvalue="Python.practice" />
-      <item index="2" class="java.lang.String" itemvalue="Python.2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.iiii" />
-      <item index="4" class="java.lang.String" itemvalue="Python.0209실습" />
-      <item index="5" class="java.lang.String" itemvalue="Python.0209cra" />
-      <item index="6" class="java.lang.String" itemvalue="Python.0209-4" />
+      <item index="2" class="java.lang.String" itemvalue="Python.iiii" />
+      <item index="3" class="java.lang.String" itemvalue="Python.0209실습" />
+      <item index="4" class="java.lang.String" itemvalue="Python.0209cra" />
+      <item index="5" class="java.lang.String" itemvalue="Python.0209-4" />
+      <item index="6" class="java.lang.String" itemvalue="Python.calculator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.0209-4" />
-        <item index="1" class="java.lang.String" itemvalue="Python.0209cra" />
-        <item index="2" class="java.lang.String" itemvalue="Python.0209실습" />
-        <item index="3" class="java.lang.String" itemvalue="Python.iiii" />
-        <item index="4" class="java.lang.String" itemvalue="Python.2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.calculator" />
+        <item index="1" class="java.lang.String" itemvalue="Python.0209-4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.0209cra" />
+        <item index="3" class="java.lang.String" itemvalue="Python.0209실습" />
+        <item index="4" class="java.lang.String" itemvalue="Python.iiii" />
       </list>
     </recent_temporary>
   </component>
@@ -516,7 +526,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2.6-7.py" />
     <entry file="file://$PROJECT_DIR$/2.6-6.py" />
     <entry file="file://$PROJECT_DIR$/2.6-4.py" />
     <entry file="file://$PROJECT_DIR$/2.6-5.py" />
@@ -691,25 +700,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="64" lean-forward="true" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/html.py" />
     <entry file="file://$USER_HOME$/Downloads/ji7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#21#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,29 +715,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0209추가.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0209ㅁㅇㅇ.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="93" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/0209추가.html" />
+    <entry file="file://$PROJECT_DIR$/0209ㅁㅇㅇ.html" />
     <entry file="file://$PROJECT_DIR$/movie_reple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-627">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
@@ -749,23 +732,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pelicana.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-456">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python3.6/pic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        <state relative-caret-position="57">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/python3.6/iiii.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="38">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
@@ -775,8 +750,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0209cra.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="247">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -795,7 +770,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0209-4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-532">
+        <state relative-caret-position="323">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
@@ -803,13 +778,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/python3.6/pic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://C:/python3.6/0209실습.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if/calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
